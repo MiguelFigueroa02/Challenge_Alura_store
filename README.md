@@ -30,6 +30,17 @@ A través de un cuaderno Jupyter (`.ipynb`) manejado en google collab se desarro
 
 ---
 
+## 🛠️Ejecución del código
+
+Puedes abrir el análisis y ejecutarlo directamente en Google Colab:
+
+[![Abrir en Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://github.com/MiguelFigueroa02/Challenge_Alura_store/blob/8423389a662cd558eb59daa72403262b66201170/Final_AluraStoreLatam.ipynb))]
+ <br>
+ O directamente accediendo a este dando click en el botón **Open in Colab** del archivo ipynb anexo a este repositorio
+![image](https://github.com/user-attachments/assets/6f4ebfe1-0102-42c6-a791-6671a9e2791d)
+
+---
+
 ## 🧰 Herramientas utilizadas
 
 - Python 🟦🟨
